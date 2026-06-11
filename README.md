@@ -13,6 +13,9 @@ i'm currently a frontend developer<br>and learning Backend<br>willing to learn a
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rajmaniverma&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+## 🏅 Microsoft Learn Achievements
+
+[View My Microsoft Learn Achievements](https://learn.microsoft.com/api/achievements/share/en-gb/Rajmaniverma-7398/QLT6BUHE?sharingId=A91616977D02A4A)
 ![](https://github-profile-trophy.vercel.app/?username=Rajmaniverma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
