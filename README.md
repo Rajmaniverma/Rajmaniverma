@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently a fullstack developer<br>and mastering the backend in three different framework("express " , "fastapi", "spring boot<br> along with learn AI/ML  willing to learn as many as possible in my Entire life<br>
+i'm currently a fullstack developer<br>and mastering the backend in three different framework("express " , "fastapi", "spring boot")<br> along with learn AI/ML  willing to learn as many as possible in my Entire life<br>
 
 
 ## 🌐 Socials:
